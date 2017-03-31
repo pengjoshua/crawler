@@ -18,4 +18,4 @@ Please enter the complete URL including 'http://' or 'https://' at the beginning
 * You will then be prompted to enter the name of a text file where you want the results to be saved.  
 Please include the '.txt' extension.   
 * A new text file will be created if it does not already exist and if the text file already exists, it will be overwritten.
-The output.txt file in this repo is an example result when http://pitchbook.com/about-pitchbook is entered.
+The output.txt file in this repo is an example result when https://pitchbook.com/about-pitchbook is entered.
