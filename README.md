@@ -4,9 +4,10 @@ A simple web crawler app to extract links, tags, and sequences from websites
 ### Instructions 
 
 To run the app:  
-* extract repo/folder contents  
+* extract repo/folder contents   
+(or in terminal type 'git clone https://github.com/pengjoshua/crawler.git')
 * open terminal and change directory into 'crawler'  
-(if folder was extracted on desktop, type: 'cd ~/desktop/crawler')  
+(if repo was extracted/cloned on desktop, type: 'cd ~/desktop/crawler')  
 * type 'npm install' to install dependencies  
 * type 'npm test' to run tests  
 * type 'npm start' to run app  
