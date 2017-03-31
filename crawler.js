@@ -3,7 +3,7 @@ let cheerio = require('cheerio');
 let fs = require('fs');
 let prompt = require('prompt');
 
-// let website = 'http://pitchbook.com/about-pitchbook';
+// let website = 'https://pitchbook.com/about-pitchbook';
 // let output = 'output.txt';
 
 let crawl = (website, output) => {
