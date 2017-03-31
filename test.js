@@ -4,7 +4,7 @@ let crawler = require('./crawler');
 let request = require('request');
 let cheerio = require('cheerio');
 
-describe('SDE Interview Project', () => {
+describe('Crawl website for links, tags, and sequences', () => {
   let webpage = 'https://pitchbook.com/about-pitchbook';
 
   let testLinks = [
