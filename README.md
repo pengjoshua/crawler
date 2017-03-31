@@ -7,9 +7,9 @@ To run the app:
 * extract repo/folder contents  
 * open terminal and change directory into 'crawler'  
 (if folder was extracted on desktop, type: 'cd ~/desktop/crawler')  
-* type: 'npm install' to install dependencies  
-* type: 'npm test' to run tests  
-* type: 'npm start' to run app  
+* type 'npm install' to install dependencies  
+* type 'npm test' to run tests  
+* type 'npm start' to run app  
 
 * You will be prompted to enter in a website URL.  
 Please enter the complete URL including 'http://' or 'https://' at the beginning.  
