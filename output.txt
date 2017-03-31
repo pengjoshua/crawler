@@ -1,0 +1,106 @@
+[links]
+https://pitchbook.com/about-pitchbook
+https://pitchbook.com/img/social-media/facebook/PitchBook-Facebook-About.jpg?uq=rcvnUrNU
+https://pitchbook.com/img/social-media/twitter/PitchBook-Twitter-CTA-About.jpg
+http://schema.org
+https://www.pitchbook.com
+https://www.facebook.com/PitchBookData
+https://twitter.com/PitchBook
+https://www.linkedin.com/company/pitchbook-data-inc-
+https://plus.google.com/+pitchbook
+https://www.youtube.com/user/PitchBook
+https://www.instagram.com/pitchbookdata/
+https://my.pitchbook.com
+https://my.pitchbook.com
+https://pitchbook-2.wistia.com/embed/iframe/nqerquyl3o
+https://www.linkedin.com/company/pitchbook-data-inc-
+https://twitter.com/PitchBook
+https://www.facebook.com/PitchBookData
+https://plus.google.com/+pitchbook
+https://www.instagram.com/pitchbookdata/
+https://www.google.com/recaptcha/api.js?onload=reCaptchaOnloadCallback&render=explicit&uq=rcvnUrNU
+https://snap.licdn.com/li.lms-analytics/insight.min.js
+https://connect.facebook.net/en_US/fbevents.js
+https://www.facebook.com/tr?id=1752955298289295&ev=PageView&noscript=1
+[HTML]
+<html><head><title></title><meta><meta/><meta/><meta/><meta/><meta/><meta><meta><meta><meta><meta><meta/><meta><meta/><meta/><meta/><script></script><link/><link/><link/><script></script><script></script><script></script></head><body><div><div><div><div><span></span><p></p></div><div><a></a><a></a></div></div></div><div><div><a></a><div><div></div><ul><li></li><li><div><a></a><a></a></div></li><li><a></a><div><div><div><div><h2><a></a></h2></div><div><div><div></div><div><a><img></a></div><div><a><img></a></div></div><div><div></div><ul><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ul></div><div><div></div><ul><li><a></a></li><li><a></a></li></ul></div></div></div></div></div></li><li><a></a><div><div><div><div><h2><a></a></h2></div><div><div><div></div><div><ul><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ul></div><div><ul><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ul></div></div><div><div></div><a><img></a></div></div></div></div></div></li><li><a></a><div><div><div><div><h2><a></a></h2></div><div><div><div><div></div><a><img></a></div><div><div></div><a><img></a></div></div><div><div></div><div><ul><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ul></div><div><ul><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ul></div></div></div></div></div></div></li><li><a></a><div><div><div><div><h2><a></a></h2></div><div><div><a><img></a></div><div><a><img></a></div><div><a><img></a></div><div><a><img></a></div></div></div></div></div></li><li><a></a><div><div><div><div><h2><a></a></h2></div><div><div><a><img></a></div><div><a><img></a></div><div><a><img></a></div><div><ul><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ul></div></div></div></div></div></li></ul></div></div></div></div><div><div><div><h1></h1></div></div></div><div><div><div><div><div><img/></div></div><div><div><div><h2></h2><p></p></div></div></div><div><div><div><div><div></div><p></p><a></a></div></div></div><div><div><div></div><p></p><a></a></div></div><div><div><div><div></div><p></p><a></a></div></div></div></div></div></div></div><div><div><h2></h2><ul><li><img><span></span><div><span></span></div></li><li><img><span></span><div><span></span></div></li><li><img><span></span><div><p><span></span></p><p><span></span></p></div></li><li><img><span></span><div><span></span></div></li><li><img><span></span><div><span></span></div></li><li><img><span></span><div><p><span></span></p><p><span></span></p></div></li><li><img><span></span><div><span></span></div></li><li><img><span></span><div><p><span></span></p><p><span></span></p><p><span></span></p></div></li><li><img><span></span><div><span></span></div></li><li><img><span></span><div><p><span></span></p><p><span></span></p><p><span></span></p><p><span></span></p></div></li><li><img><span></span><div><p><span></span><br></p><p><span></span><br></p></div></li></ul></div></div><div><div><div><div><h2></h2><div><div><div></div><div><p></p><p></p></div><div><dl><dt></dt><dd></dd><dt></dt><dd></dd></dl></div></div><div><div></div><div><p></p><p></p></div><div><dl><dt></dt><dd></dd><dt></dt><dd></dd></dl></div></div><div><div></div><div><p></p><p></p></div><div><dl><dt></dt><dd></dd><dt></dt><dd></dd></dl></div></div><div><div></div><div><p></p><p></p></div><div><dl><dt></dt><dd></dd><dt></dt><dd></dd></dl></div></div><div><div></div><div><p></p><p></p></div><div><dl><dt></dt><dd></dd><dt></dt><dd></dd></dl></div></div><div><div></div><div><p></p><p></p></div><div><dl><dt></dt><dd></dd><dt></dt><dd></dd></dl></div></div><div><div></div><div><p></p><p></p></div><div><dl><dt></dt><dd></dd><dt></dt><dd></dd></dl></div></div><div><div></div><div><p></p><p></p></div><div><dl><dt></dt><dd></dd><dt></dt><dd></dd></dl></div></div><div><div></div><div><p></p><p></p></div><div><dl><dt></dt><dd></dd><dt></dt><dd></dd></dl></div></div><div><div></div><div><p></p><p></p></div><div><dl><dt></dt><dd></dd><dt></dt><dd></dd></dl></div></div><div><div></div><div><p></p><p></p></div><div><dl><dt></dt><dd></dd><dt></dt><dd></dd></dl></div></div><div><div></div><div><p></p><p></p></div><div><dl><dt></dt><dd></dd></dl></div></div></div></div></div></div></div><div><div><h2></h2><iframe></iframe></div></div><div><div><div><div><div><div><img/></div></div><div><div><div><h2></h2><p></p><a></a></div></div></div></div></div></div></div><div><img/><div><div><div><h2></h2><p></p><div><a></a></div></div></div></div></div><div><div><div><div><ul><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ul></div></div><div><div><h3></h3><ul><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ul></div></div><div><div><h3></h3><ul><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ul></div></div><div><div><h3></h3><ul><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ul><ul><li></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li></ul></div></div></div><div><div><div><div><div><h3></h3><p><br/><br/><br/><br/></p></div></div><div><div><h3></h3><p><br/><br/><br/><br/><br/></p></div></div><div><div><h3></h3><p><br/><br/><br/><br/></p></div></div><div><div><h3></h3><p></a></p></div></div></div><div><div><p></p><ul><li><a></a></li><li><a></a></li><li><a></a></li></ul></div></div></div></div></div><link/><script></script><script></script><script></script><script></script><script></script><div><script></script></div><script></script><div><script></script></div><noscript><div><img/></div></noscript><script></script><script></script><script></script><script></script><noscript><img/></noscript><script></script></body></html>
+[sequences]
+About PitchBook
+Private Financial Data
+The PitchBook Platform
+PitchBook Mobile
+Product Overview
+The PitchBook Platform
+PitchBook Mobile App
+Customer Success
+Customer Testimonials
+Investment Banks
+Venture Capital
+Private Equity
+Limited Partners
+Law Firms
+Accounting Firms
+Industry News
+Private Company Profiles
+Our Story
+Media Center
+Our Partners
+Event Calendar
+At PitchBook
+John Gabbert
+The PitchBook Platform
+SIIA CODiE Awards
+New York
+Complete VC
+Redesigned Platform
+Company Signals
+John Gabbert
+Chief Executive Officer
+Rod Diefendorf
+Chief Operating Officer
+Southern California
+Fabrice Forget
+Chief Product Officer
+Ecole Centrale
+Adley Bowden
+Vice President
+Market Development
+Paul Santarelli
+New York
+Managing Director
+Client Development
+Tulane University
+Brett Kaluza
+Managing Director
+Customer Success
+Skylar Marcum
+Vice President
+Douglas Trafelet
+Managing Director
+Jay Searles
+Santa Clara University
+Steve Carver
+Managing Director
+New York University
+Steve Bendt
+Senior Director
+Marquette University
+Sue Dickinson
+US Headquarters
+Fifth Avenue
+EUROPE Headquarters
+Lector Court
+TH Floor
+Farringdon Road
+London EC1R
+United Kingdom
+NEW YORK
+Fifth Avenue
+New York
+GENERAL INQUIRIES
+PitchBook Data
+Site Map
+Privacy Policy
+Query Validation
+Insert Twitter Pixel ID
+Standard Event

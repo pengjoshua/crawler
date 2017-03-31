@@ -1,0 +1,21 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "A simple web crawler app",
+  "main": "crawler.js",
+  "scripts": {
+    "start": "node crawler",
+    "test": "mocha"
+  },
+  "author": "Joshua Peng",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "cheerio": "^0.22.0",
+    "fs": "0.0.1-security",
+    "mocha": "^3.2.0",
+    "prompt": "^1.0.0",
+    "request": "^2.81.0",
+    "url-parse": "^1.1.8"
+  }
+}
