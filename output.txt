@@ -1,6 +1,6 @@
 [links]
 https://pitchbook.com/about-pitchbook
-https://pitchbook.com/img/social-media/facebook/PitchBook-Facebook-About.jpg?uq=rcvnUrNU
+https://pitchbook.com/img/social-media/facebook/PitchBook-Facebook-About.jpg?uq=13ZzqRKi
 https://pitchbook.com/img/social-media/twitter/PitchBook-Twitter-CTA-About.jpg
 http://schema.org
 https://www.pitchbook.com
@@ -18,7 +18,7 @@ https://twitter.com/PitchBook
 https://www.facebook.com/PitchBookData
 https://plus.google.com/+pitchbook
 https://www.instagram.com/pitchbookdata/
-https://www.google.com/recaptcha/api.js?onload=reCaptchaOnloadCallback&render=explicit&uq=rcvnUrNU
+https://www.google.com/recaptcha/api.js?onload=reCaptchaOnloadCallback&render=explicit&uq=13ZzqRKi
 https://snap.licdn.com/li.lms-analytics/insight.min.js
 https://connect.facebook.net/en_US/fbevents.js
 https://www.facebook.com/tr?id=1752955298289295&ev=PageView&noscript=1

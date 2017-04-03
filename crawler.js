@@ -70,7 +70,7 @@ let collectTags = (body) => {
     let findClose = tag.lastIndexOf('>');
     if (findSpace === -1) return tag;
     else if (findSelfClose !== -1) return tag.substring(0, findSpace) + tag.substr(findSelfClose, 2);
-    else return tag.substring(0, findSpace) + tag.substr(findClose, 2);
+    else return tag.substring(0, findSpace) + tag.substr(findClose, 1);
   });
   // console.log(strippedTags);
 
